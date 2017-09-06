@@ -1,10 +1,10 @@
 {
-    "name": "Frame1910.EndlessDark",
-    "title": "Endless Dark",
+    "name": "endlessdark",
+    "title": "EndlessDark",
     "description": "Endless Dark is a theme for Adobe Brackets which focuses on readability and identification of important functions",
     "homepage": "http://github.com/Frame1910/EndlessDark",
     "version": "1.0.0",
-    "author": "Darren Meiring dpmeiring@gmail.com",
+    "author": "Darren M.",
     "license": "MIT",
     "theme": {
         "file": "EndlessDark.less",
